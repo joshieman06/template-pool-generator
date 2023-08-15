@@ -1,6 +1,9 @@
 # template-pool-generator
 Generates a structure template pool for Minecraft data packs depending on what directory is entered.
 
+# [LIVE DEMO](https://tools.joshie.app/template-pool-generator/)
+
+
 # Config
 Enter the FULL directory using the variable `directory` (ex. `C:\User\Files\Structures\Houses`)
 
